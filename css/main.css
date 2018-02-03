@@ -1,0 +1,92 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+a {
+    color: white;
+    -moz-transition: color 0.2s ease, color 0.2s ease;
+    -webkit-transition: color 0.2s ease, color 0.2s ease;
+    -ms-transition: color 0.2s ease, color 0.2s ease;
+    transition: color 0.2s ease, color 0.2s ease;
+}
+
+a:hover {
+    color: rgba(255,255,255,0.7) !important;
+    text-decoration: underline;
+}
+
+a:focus {
+    color: rgba(255,255,255,.8) !important;
+}
+
+a i {
+    color: #fff;
+    -moz-transition: color 0.2s ease, color 0.2s ease;
+    -webkit-transition: color 0.2s ease, color 0.2s ease;
+    -ms-transition: color 0.2s ease, color 0.2s ease;
+    transition: color 0.2s ease, color 0.2s ease;
+}
+
+a i:hover {
+    color: rgba(255,255,255,0.7);
+}
+
+ul {
+    margin: 0 auto;
+    display: table;
+}
+
+li {
+    text-align:left;
+    font-size: 16px;
+}
+
+.container {
+    text-align: center;
+    z-index: 2;
+}
+
+.container-main {
+    margin-top: 15%;
+}
+
+.social {
+    margin-top: 20px;
+}
+
+.social a {
+  padding: 7px;
+}
+
+.navbar-brand { position: relative; z-index: 2; }
+.navbar-default {background-color: transparent; border:none;}
+.navbar-default .navbar-nav>li>a {color:white;}
+.navbar-nav.navbar-right .btn { position: relative; z-index: 2; padding: 4px 20px; margin: 10px auto; }
+.navbar .navbar-collapse { position: relative; }
+.navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 22px; }
+.navbar .nav-collapse { position: absolute; z-index: 1; top: 0; left: 0; right: 0; bottom: 0; margin: 0; padding-right: 120px; padding-left: 80px; width: 100%; }
+.navbar.navbar-default .nav-collapse { background-color: rgba(255,255,255,0); }
+.navbar.navbar-inverse .nav-collapse { background-color: rgba(255,255,255,0); }
+.navbar .nav-collapse .navbar-form { border-width: 0; box-shadow: none; }
+.nav-collapse>li { float: right; }
+.btn.btn-circle { border-radius: 50px; }
+.btn.btn-outline { background-color: transparent; }
+
+@media screen and (max-width: 767px) {
+    .navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 15px; padding-right: 15px; }
+    .navbar .nav-collapse { margin: 7.5px auto; padding: 0; }
+    .navbar .nav-collapse .navbar-form { margin: 0; }
+    .nav-collapse>li { float: none; }
+}
+
+@media screen and (max-width: 374px) {
+  h1 {
+    font-size: 30px;
+  }
+  .social a {
+    padding: 4px !important;
+  }
+}

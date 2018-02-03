@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>Debugged Podcast</title>
+
+<link>http://colesterproductions.com</link>
+
+<language>en-us</language>
+
+<copyright>&#x2117; &amp; &#xA9; 2017 Debugged Podcast</copyright>
+
+<itunes:subtitle>Banter you didn't know you could care about</itunes:subtitle>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:summary>We are a group of computer science (and mathematics) majors at Kansas State University. This podcast contains a free range of topics; some funny, some serious, and some just strange.</itunes:summary>
+
+<description>We are a group of computer science (and mathematics) majors at Kansas State University. This podcast contains a free range of topics; some funny, some serious, and some just strange.</description>
+
+<itunes:owner>
+
+<itunes:name>Ashley Coleman</itunes:name>
+
+<itunes:email>ash123125@gmail.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<itunes:category text="Comedy"/>
+
+<itunes:explicit>yes</itunes:explicit>
+
+<!--  EPISODE 10 -->
+<item>
+
+<title>dun even matter</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Jake Ehrlich, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>The pals have a heated rant about things that don't matter with special guest business man Jake Ehrlich.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep10.mp3" length="36409869" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep10.mp3</guid>
+
+<pubDate>Sat, 11 Mar 2017 14:58:05 -0000</pubDate>
+
+<itunes:duration>24:11</itunes:duration>
+
+</item>
+
+<!--  EPISODE 9 -->
+<item>
+
+<title>Everyone Hates Geese</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>The pals spit "million dollars, but..." questions until we finally talk about animals again. We dork around with some cards, and Tyler talks about his butt smell.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep9.mp3" length="41264273" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep9.mp3</guid>
+
+<pubDate>Mon, 13 Jun 2016 11:56:58 -0500</pubDate>
+
+<itunes:duration>42:59</itunes:duration>
+
+</item>
+
+<!--  EPISODE 8 -->
+<item>
+
+<title>The boys are back in town (and a girl) </title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Chloe Henderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>The guys are back. Eric calls Ashley a hair dolphin. Tyler flexes and farts on the mic. Ashley breaks from laughter and also gets s'angry. Tyler farts some more. And there is a girl, she yells into the mic.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep8.mp3" length="45454788" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep8.mp3</guid>
+
+<pubDate>Wed, 18 May 2016 20:43:05 -0500</pubDate>
+
+<itunes:duration>48:04</itunes:duration>
+
+</item>
+
+<!--  EPISODE 7 -->
+<item>
+
+<title>Holdin' It In</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>The pals talk about becoming transformers, and everyone has to poop.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep7.mp3" length="37865011" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep7.mp3</guid>
+
+<pubDate>Sun, 22 Nov 2015 20:08:01 -0600</pubDate>
+
+<itunes:duration>39:27</itunes:duration>
+
+</item>
+
+<!--  EPISODE 6 -->
+<item>
+
+<title>A Real Life Actual Girl</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>The guys have a real life, actual, for real, not fake, real girl on the show. She gives us some perspective. </itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep6.mp3" length="35396962" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep6.mp3</guid>
+
+<pubDate>Sun, 04 Oct 2015 18:29:56 -0500</pubDate>
+
+<itunes:duration>36:52</itunes:duration>
+
+</item>
+
+<!--  EPISODE 5 -->
+<item>
+
+<title>Holy Large Intestine Jar</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>What would you do with Death Stats, your own religion, and a limitation to 100 words a day? Find out what we think on this weeks podcast.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep5.mp3" length="34131836" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep5.mp3</guid>
+
+<pubDate>Mon, 21 Sep 2015 22:39:41 -0500</pubDate>
+
+<itunes:duration>35:33</itunes:duration>
+
+</item>
+
+
+<!--  EPISODE 4 -->
+<item>
+
+<title>400 Year Old, Billionaire Rhino</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>The gang explores important questions that are vital to the importance of humanity.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep4.mp3" length="39200845" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep4.mp3</guid>
+
+<pubDate>Sun, 20 Sep 2015 23:00:00 -0500</pubDate>
+
+<itunes:duration>40:50</itunes:duration>
+
+</item>
+
+<!--  EPISODE 3 -->
+<item>
+
+<title>Everyone is Gay</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>In this episode we talk about stuff... scary stuff. With special guest, Jeffrey the Train.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep3.mp3" length="47016531" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep3.mp3</guid>
+
+<pubDate>Sun, 20 Sep 2015 22:57:44 -0500</pubDate>
+
+<itunes:duration>48:58</itunes:duration>
+
+</item>
+
+<!--  EPISODE 2 -->
+<item>
+
+<title>Trains Are The Best Comedians</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>In this episode, we talk about working in the computer industry, psychology, and some epic Tinder bios.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep2.mp3" length="43967659" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep2.mp3</guid>
+
+<pubDate>Sun, 20 Sep 2015 22:42:57 -0500</pubDate>
+
+<itunes:duration>45:48</itunes:duration>
+
+</item>
+
+<!--  EPISODE 1 -->
+<item>
+
+<title>Killing Pandas with Bear Hands</title>
+
+<itunes:author>Eric Schmar, Tyler Aden, Matthew Wilderson, Ashley Coleman</itunes:author>
+
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:summary>This podcast covers a range of topics from killing pandas with bear hands, death, tinder, and building computers with minecraft! There is literally something here for everyone.</itunes:summary>
+
+<itunes:image href="http://colesterproductions.com/podcasts/debugged/cover.jpg" />
+
+<enclosure url="http://colesterproductions.com/podcasts/debugged/ep1.mp3" length="61606346" type="audio/mpeg" />
+
+<guid>http://colesterproductions.com/podcasts/debugged/ep1.mp3</guid>
+
+<pubDate>Sun, 20 Sep 2015 22:38:45 -0500</pubDate>
+
+<itunes:duration>01:04:10</itunes:duration>
+
+</item>
+
+</channel>
+
+</rss>
