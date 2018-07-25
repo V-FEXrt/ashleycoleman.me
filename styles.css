@@ -1,0 +1,35 @@
+body {
+  font-size: 14px;
+  color: #666666;
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h3 {
+  color: #4d4d4d;
+  font-weight: 700;
+}
+
+.container {
+  margin-top: 7%;
+}
+
+.social {
+  margin: 30px auto 30px;
+}
+
+.social a {
+  color: #4d4d4d;
+  padding: 4px;
+  transition: all .3s;
+}
+
+.social a:first-child {
+  padding-left: 0;
+}
+
+.social a:hover {
+  color: #666666;
+  transition: all .3s;
+}
