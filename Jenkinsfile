@@ -1,9 +1,11 @@
 pipeline {
   agent any
   stages {
-    stage('Test') {
+    stage('Deploy') {
+      when {
+        expression {  env.BRANCH_NAME == 'master' }
+      }
       steps {
-        sh 'ls'
         sh 'ls'
       }
     }
