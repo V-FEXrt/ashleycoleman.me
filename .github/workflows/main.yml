@@ -18,12 +18,12 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Configure AWS credentials from account
+    - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v4
       with:
         role-to-assume: arn:aws:iam::151124538060:role/GithubActionsIAM
         aws-region: us-east-1
 
-    - name: Copy files to the test website with the AWS CLI
+    - name: Copy website to S3
       run: |
-        aws s3 sync ./public s3://www.ashleycoleman.me --dryrun
+        aws s3 sync ./public s3://www.ashleycoleman.me --delete --dryrun
