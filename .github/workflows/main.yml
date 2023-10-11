@@ -26,4 +26,4 @@ jobs:
 
     - name: Copy website to S3
       run: |
-        aws s3 sync ./public s3://www.ashleycoleman.me --delete --dryrun
+        aws s3 sync ./public s3://www.ashleycoleman.me --delete
